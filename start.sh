@@ -1,0 +1,1 @@
+uv pip install vllm --torch-backend=auto
